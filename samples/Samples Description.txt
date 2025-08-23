@@ -1,0 +1,6 @@
+Sample 1: Ideal gear
+Sample 2: Large inner openning
+Sample 3: Large inner openning + Missing teeth + worn out teeth
+Sample 4: Missing inner openning 
+Sample 5: Missing inner openning  + worn out teeth
+sample 6: Missing teeth
